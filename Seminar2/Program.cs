@@ -134,3 +134,27 @@
 // {
 //     Console.Write($"The three-digit of {number} = {ThirdNumber(number)}");
 // }
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+bool isHoliday(int day)
+{
+    if(day == 6 || day == 7) 
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+
+    Console.Write("Enter the day of the week: ");
+    int day = Convert.ToInt32(Console.ReadLine());
+
+    if(isHoliday(day))
+    {
+        Console.Write("Holiday");
+    }
+    else
+    {
+        Console.Write("go to work");
+    }
