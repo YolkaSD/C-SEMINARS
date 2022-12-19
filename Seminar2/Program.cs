@@ -87,3 +87,50 @@
 // int num2 = Convert.ToInt32(Console.ReadLine());
 
 // Console.WriteLine(IsQuad(num1, num2));
+
+
+//HomeWork Seminar 2
+
+// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+// int SecondNumberOfThreeDigit(int number)
+//     {
+//     if(number < 100 || number > 999)
+//     {
+//         Console.WriteLine($"The number {number} is not three-digit");
+//         return -1;
+//     }
+
+//     return number / 10 % 10;
+// }
+
+// Console.Write("Pls, enter a three-digit number: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine($"The second number is {SecondNumberOfThreeDigit(number)}");
+
+//Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+// int ThirdNumber(int number)
+// {
+//     int hundredsCount = number / 100;
+//     if(hundredsCount == 0)
+//     {
+//         return -1;
+//     }
+//     int remainder = 1;
+//     while(hundredsCount > 0) 
+//     {
+//      hundredsCount /= 10;
+//      remainder *= 10;
+//     }
+//     return number % remainder / (remainder / 10);
+
+// }
+// Console.Write("Pls, enter a three-digit number: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// if(ThirdNumber(number) == -1)
+// {
+//     Console.WriteLine($"The number {number} is not three digits");
+// }
+// else
+// {
+//     Console.Write($"The three-digit of {number} = {ThirdNumber(number)}");
+// }
