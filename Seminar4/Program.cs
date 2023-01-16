@@ -139,29 +139,29 @@
 //task 29: Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
-int[] CreateArray(int size)
-{
-    int[] array = new int[size];
+// int[] CreateArray(int size)
+// {
+//     int[] array = new int[size];
 
-    for(int i = 0; i < size; i++)
-    {
-        Console.Write($"Input a {i} element of array: ");
-        array[i] = Convert.ToInt32(Console.ReadLine());
-    }
+//     for(int i = 0; i < size; i++)
+//     {
+//         Console.Write($"Input a {i} element of array: ");
+//         array[i] = Convert.ToInt32(Console.ReadLine());
+//     }
 
-    return array;
-}
+//     return array;
+// }
 
-void ShowArray(int[] array) {
-    for(int i = 0; i < array.Length; i++)
-    {
-        Console.Write(array[i] + " ");
-    }
-    Console.WriteLine();
-}
+// void ShowArray(int[] array) {
+//     for(int i = 0; i < array.Length; i++)
+//     {
+//         Console.Write(array[i] + " ");
+//     }
+//     Console.WriteLine();
+// }
 
-Console.Write("Input a number of elements: ");
-int m = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input a number of elements: ");
+// int m = Convert.ToInt32(Console.ReadLine());
 
-int[] newArray = CreateArray(m);
-ShowArray(newArray);
+// int[] newArray = CreateArray(m);
+// ShowArray(newArray);
