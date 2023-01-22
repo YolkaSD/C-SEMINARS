@@ -1,0 +1,15 @@
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\bin\Debug\net7.0\Seminar6.exe
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\bin\Debug\net7.0\Seminar6.deps.json
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\bin\Debug\net7.0\Seminar6.runtimeconfig.json
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\bin\Debug\net7.0\Seminar6.dll
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\bin\Debug\net7.0\Seminar6.pdb
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.csproj.AssemblyReference.cache
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.AssemblyInfoInputs.cache
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.AssemblyInfo.cs
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.csproj.CoreCompileInputs.cache
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.dll
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\refint\Seminar6.dll
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.pdb
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\Seminar6.genruntimeconfig.cache
+C:\Users\kotbk\OneDrive\Рабочий стол\C#\Project\Seminar\Seminar6\obj\Debug\net7.0\ref\Seminar6.dll
