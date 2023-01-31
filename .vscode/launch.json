@@ -1,6 +1,8 @@
 {
     "version": "0.2.0",
     "configurations": [
+    
+
         
 
         {
@@ -12,7 +14,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Seminar8/bin/Debug/net7.0/Seminar8.dll",
+            "program": "${workspaceFolder}/Seminar9/bin/Debug/net7.0/Seminar9.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Seminar8",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
